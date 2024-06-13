@@ -1,0 +1,7 @@
+build/bin
+node_modules
+frontend/dist
+/.vagrant/
+/build/windows/installer/tmp/
+/gorm.db
+.idea
